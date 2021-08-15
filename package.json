@@ -1,7 +1,7 @@
 {
-  "name": "gulp",
+  "name": "@acanto/gulp",
   "version": "4.0.2",
-  "description": "The streaming build system.",
+  "description": "Fork of gulp. The streaming build system.",
   "homepage": "https://gulpjs.com",
   "author": "Gulp Team <team@gulpjs.com> (https://gulpjs.com/)",
   "contributors": [
